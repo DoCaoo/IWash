@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#ffd600</color>
+    <color name="grey">#a4a4a4</color>
+    <color name="card">#ff8f00</color>
+    <color name="orange">#FFC107</color>
+    <color name="viewColor">#FBF9F9</color>
+    <color name="colorPrimary">#626DD3</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="myWindowBackground">#0091EA</color>
+    <color name="textColorPrimary">#232323</color>
+    <color name="navigationBarColor">#007FBF</color>
+    <color name="textColorSecondary">#007FBF</color>
+    <color name="bacgroudcolor">#007FBF</color>
+    <color name="red">#ff3d00</color>
+</resources>

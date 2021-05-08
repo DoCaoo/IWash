@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "153240685615",
+    "project_id": "datn-iwash",
+    "storage_bucket": "datn-iwash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153240685615:android:5fc250b8b5d705aadb0ada",
+        "android_client_info": {
+          "package_name": "com.duantotnghiep.iwash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153240685615-17pq4oan83cpd2u14ic5k0hpo1oehr2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.duantotnghiep.iwash",
+            "certificate_hash": "d9d2bb3b01053fefe391fd913795cdc2f7d82984"
+          }
+        },
+        {
+          "client_id": "153240685615-me2uc1edds9n4et2ofua929nliv8l4s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKDUMKpVDNGXB4wcljgXXY4AOJbGbYr_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153240685615-me2uc1edds9n4et2ofua929nliv8l4s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,52 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.IWash" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="MyAppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/navigationBarColor</item>                       <!--Màu chính (ví dụ nền AppBar)-->
+        <item name="colorPrimaryDark">@color/colorPrimary</item>               <!--Màu nền thanh trạng thái điện thoại-->
+        <item name="android:navigationBarColor">@color/navigationBarColor</item>   <!--Màu nền điều hướng điện thoại-->
+        <item name="colorAccent">@color/colorAccent</item>                         <!--Màu nhấn mạnh (kiểm trong checkbox, gạch chân TextBox ...)-->
+       <!--Màu nền Activity-->
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>       <!--Màu chữ trong các control như Button ... -->
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>   <!--Màu chữ ở trạng thái  ... -->
+    </style>
+
+
+    <style name="StyleOfText">
+        <item name="android:fontFamily">@font/changoregular</item>
+    </style>
+    <style name="TextTitle">
+        <item name="android:textSize">24sp</item>
+        <item name="fontFamily">serif</item>
+        <item name="font">@color/black</item>
+    </style>
+    <style name="TextElement" parent="MaterialAlertDialog.MaterialComponents.Title.Text">
+        <item name="fontFamily">sans-serif-condensed</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="TextElement.big">
+        <item name="fontFamily">sans-serif-condensed</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+    <style name="TextElement.medium">
+        <item name="fontFamily">sans-serif-condensed</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="TextSmall">
+        <item name="fontFamily">sans-serif</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+    <style name="TextElement.small">
+        <item name="fontFamily">serif</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>

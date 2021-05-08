@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">IWash</string>
+    <string name="login_phone_hint">Số điện thoại (+84)</string>
+    <string name="login_name_hint">Tên</string>
+    <string name="login_address_hint">Địa chỉ</string>
+    <string name="login_password_hint">Mật khẩu</string>
+    <string name="home">Trang chủ</string>
+    <string name="account">Tài khoản </string>
+    <string name="more">Thêm…</string>
+    <string name="otp" translatable="false">OTP</string>
+    <string name="schedule">Lịch đặt</string>
+    <string name="book_service">Book Services</string>
+    <string name="more_service">More Services</string>
+    <string name="header_text_home">Do something!</string>
+    <string name="add_vehicle">Thêm phương tiện</string>
+    <string name="wash_services">Rửa xe</string>
+    <string name="news">Tin tức</string>
+    <string name="my_account">Tài khoản của tôi</string>
+    <string name="userName">Username</string>
+    <string name="myPhone" translatable="false">+84 389793148</string>
+    <string name="messages">Tin nhắn</string>
+    <string name="editInfor">Chỉnh sửa thông tin</string>
+    <string name="report">Thông báo</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="history">Lịch sử</string>
+    <string name="notification">Thông báo</string>
+    <string name="accInfo">Thông tin tài khoản</string>
+    <string name="feedback">Feedback</string>
+    <string name="yourInformation">Thông tin của bạn</string>
+    <string name="full_name">Tên đầy đủ</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="phone" translatable="false">0389793148</string>
+    <string name="address">Địa chỉ</string>
+    <string name="update_infor">Cập nhật</string>
+    <string name="question0">1. Bạn đánh giá IWash thế nào?</string>
+    <string name="question1">2. Chúng tôi cần cải thiện gì để bạn hài lòng?</string>
+    <string name="question2">3. Điều gì khiến bạn hài lòng nhất?</string>
+    <string name="title_feedback">Giúp chúng tôi hiểu rõ bạn hơn</string>
+    <string name="exit">Thoát</string>
+    <string name="send">Gửi</string>
+    <string name="dismiss">Bỏ qua</string>
+    <string name="vehicle_type">Loại xe</string>
+    <string name="vehicle_brand">Hãng xe</string>
+    <string name="vehicle_license">Biển số</string>
+    <string name="color">Màu xe</string>
+    <string name="add">Thêm</string>
+    <string name="cancel">Hủy</string>
+    <string name="add_vehicles">Thêm phương tiện</string>
+    <string name="storeAddress">Địa chỉ cửa hàng</string>
+    <string name="change">Thay đổi</string>
+    <string name="local" translatable="false">394 Cau Giay Street, Dich Vong, Cau Giay District, Hanoi</string>
+    <string name="local1" translatable="false">80/8 Xuân Phương, Nam Từ Liêm, Hà Nội</string>
+    <string name="choose_time">Chọn thời gian</string>
+    <string name="service">Dịch vụ</string>
+    <string name="book">Đặt</string>
+    <string name="description">Mô tả</string>
+    <string name="choose_vehicles">Chọn phương tiện</string>
+    <string name="choose_date">Chọn ngày</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="Vietname">Vietnamese</string>
+    <string name="English">English</string>
+    <string name="support">Hỗ trợ</string>
+    <string name="callme">Gọi chúng tôi: </string>
+    <string name="sendSP">(Hoặc gửi tin nhắn)</string>
+    <string name="languageSetting">Chọn ngôn ngữ</string>
+    <string name="Policyandprivacy">Chính sách và bảo mật</string>
+    <string name="share">Chia sẻ</string>
+    <string name="evaluate">Đánh giá</string>
+    <string name="phone_verification">Xác thức số điện thoại</string>
+    <string name="sentOTP">Vui lòng nhập mã code mà chúng tôi \nvừa gửi tới số điện thoại của bạn. </string>
+    <string name="login_text">Làm sạch phương tiện của bạn mỗi ngày.</string>
+    <string name="login_title_text">Chúng tôi sẽ giúp bạn đặt lịch rửa xe online</string>
+    <string name="login">Đăng nhập</string>
+    <string name="sign_up">Đăng ký</string>
+    <string name="login_text_how_we_work">Cách chúng tôi hoạt động?</string>
+    <string name="prefix" translatable="false">+84</string>
+    <string name="password">Mật khẩu</string>
+    <string name="check_box">Lưu mật khẩu?</string>
+    <string name="create_account">Tạo tài khoản mới</string>
+    <string name="next">Tiếp</string>
+    <string name="close">Đóng</string>
+    <string name="verify_phone">Xác thức số điện thoại</string>
+    <string name="sent_OTP">Vui lòng nhập mã code mà chúng tôi \nvừa gửi tới số điện thoại của bạn.</string>
+    <string name="your_vehicle">Phương tiện</string>
+    <string name="add_your_vehicle">Thêm phương tiện</string>
+    <string name="update">Cập nhật</string>
+    <string name="report_app">Thông báo</string>
+    <string name="success">Đặt lịch thành công</string>
+    <string name="failed">Thất bại</string>
+    <string name="NameOfVehicle">Tên phương tiện</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="car_wash">Car Wash</string>
+    <string name="textview_news">IWash tin tức</string>
+    <string name="textview_changepw">Đổi mật khẩu</string>
+    <string name="current_pw">Mật khẩu hiện tại</string>
+    <string name="new_pw">Mật khẩu mới</string>
+</resources>

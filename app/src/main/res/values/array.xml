@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="type_of_vehicle">
+        <item>Xe máy</item>
+        <item>Ô tô</item>
+    </array>
+</resources>
